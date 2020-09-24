@@ -1,0 +1,60 @@
+''''''''''''''''''''''''''''''''''''''''''''''
+' Colour Constants by Adam Lane - (ServerX ) '
+''''''''''''''''''''''''''''''''''''''''''''''
+
+'Greyscale
+Const white = &HFFFFFF
+Const grey1 = &HE0E0E0
+Const grey2 = &HC0C0C0
+Const grey3 = &H808080
+Const grey4 = &H404040
+Const black = &H0&
+'Reds
+Const red1 = &HC0C0FF
+Const red2 = &H8080FF
+Const red3 = &HFF&
+Const red4 = &HC0&
+Const red5 = &H80&
+Const red6 = &H40&
+'Oranges/Browns
+Const orange1 = &HC0E0FF
+Const orange2 = &H80C0FF
+Const orange3 = &H80FF&
+Const orange4 = &H40C0&
+Const orange5 = &H4080&
+Const orange6 = &H404080
+'Yellows/Golds
+Const yellow1 = &HC0FFFF
+Const yellow2 = &H80FFFF
+Const yellow3 = &HFFFF&
+Const yellow4 = &HC0C0&
+Const yellow5 = &H8080&
+Const yellow6 = &H4040&
+'Greens
+Const green1 = &HC0FFC0
+Const green2 = &H80FF80
+Const green3 = &HFF00&
+Const green4 = &HC000&
+Const green5 = &H8000&
+Const green6 = &H4000&
+'Light Blues
+Const lblue1 = &HFFFFC0
+Const lblue2 = &HFFFF80
+Const lblue3 = &HFFFF00
+Const lblue4 = &HC0C000
+Const lblue5 = &H808000
+Const lblue6 = &H404000
+'Blues
+Const blue1 = &HFFC0C0
+Const blue2 = &HFF8080
+Const blue3 = &HFF0000
+Const blue4 = &HC00000
+Const blue5 = &H800000
+Const blue6 = &H400000
+'Pinks/Purples
+Const pink1 = &HFFC0FF
+Const pink2 = &HFF80FF
+Const pink3 = &HFF00FF
+Const pink4 = &HC000C0
+Const pink5 = &H800080
+Const pink6 = &H400040
